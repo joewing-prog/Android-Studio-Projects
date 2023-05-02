@@ -1,1 +1,26 @@
-Due to size being over 25 MB, OpenWeather App was moved to the main branch, under Tags > Releases.
+Within this file are 2 zips each representing a project.
+
+1. Android Notes
+A mobile application that functions like a notes app. Features:
+ - Custom UI/UX design
+ - Ability to add, edit, and delete note objects
+ - Ability to scroll through multiple note objects in a drawer feature
+ - Note objects store written text
+ 
+ 2. News Gateway
+ A mobile application that allows viewing of new sources from the application itself. Features:
+ - Custom UI/UX design
+ - Pulls news source data from API
+ - Ability to view a news article and a brief description of the article
+ - Ability to use a hyperlink that opens to a browser with the linked article
+ - Various features including functioning drawers, sliders, and interactive pages
+
+3. OpenWeather App
+A mobile application that reads weather data and puts that information onto the app. Features:
+- Custom UI/UX design
+- Pulls weather data from API
+- Various temperature readings, such as Fahrenheit, Celsius, high temp, low temp, sunrise and sunset time
+- Ability to specify location of temperature data desired
+- Various features including functioning sliders and page redirects
+
+*Due to size being over 25 MB, OpenWeather App was moved to the main branch, under Tags > Releases.
