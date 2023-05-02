@@ -1,2 +1,1 @@
-Due to the structure of the files needing to be intact within a zip file (and the file being over 25 MB), Mobile-App-Development-related projects have been moved to Releases.
-Therefore, you can return to the main branch of the repo and then click on Tags under Releases to see Mobile-App-Development projects.
+Due to size being over 25 MB, OpenWeather App was moved to the main branch, under Tags > Releases.
